@@ -1,10 +1,10 @@
 <img src="https://i.imgur.com/xpOiUDQ.png?1">
 
-<span style=text-align:center>
+<div align="center">
 
 # Extra Command Block ++
 
-</span>
+</div>
 
 <img src="https://i.imgur.com/xpOiUDQ.png?1">
 
@@ -22,7 +22,52 @@ New texture for:
 
  [Resource Pack Template][CREDIT_TEMPLATE]
 
+CTM template:
 
+- ctm/all_command_block/
+- - facing/
+- - - down/
+- - - - command_block/
+- - - - - all sides
+- - - - chain_command_block
+- - - - - all sides
+- - - - repeating_command_block
+- - - - - all sides
+- - - east/
+- - - - command_block/
+- - - - - all sides
+- - - - chain_command_block/
+- - - - - all sides
+- - - - repeating_command_block/
+- - - - - all sides
+- - - north/
+- - - - command_block/
+- - - - - all sides
+- - - - chain_command_block/
+- - - - - all sides
+- - - - repeating_command_block/
+- - - - - all sides
+- - - south/
+- - - - command_block/
+- - - - - all sides
+- - - - chain_command_block/
+- - - - - all sides
+- - - - repeating_command_block/
+- - - - - all sides
+- - - down/
+- - - - command_block/
+- - - - - all sides
+- - - - chain_command_block/
+- - - - - all sides
+- - - - repeating_command_block/
+- - - - - all sides
+- - - up/
+- - - - command_block/
+- - - - - all sides
+- - - - chain_command_block/
+- - - - - all sides
+- - - - repeating_command_block/
+- - - - - all sides
 
 
 [WIKI_RESOURCE_PACK]: https://minecraft.fandom.com/wiki/Resource_Pack
