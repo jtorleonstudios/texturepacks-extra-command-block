@@ -1,12 +1,26 @@
-<img src="https://i.imgur.com/xpOiUDQ.png?1">
+<span align="center">
+   
+    
+<table style="margin: auto; text-align: center;">
+   
+<tr>
+<td>
+<a href="https://www.patreon.com/jtorleon">
 
-<div align="center">
+![discord](https://gitlab.com/scs_torleon/hub-ore-prospecting-stick/-/raw/main/assets/footer-patreon.png)
+  
+</a>
+</td>
+<td>
+<a href="https://discord.gg/aGKgWtrcgp">
 
-# Extra Command Block ++
-
-</div>
-
-<img src="https://i.imgur.com/xpOiUDQ.png?1">
+![discord](https://invidget.switchblade.xyz/aGKgWtrcgp)
+        
+</a>
+</td>
+</tr>
+</table>   
+</span>
 
 Description :
 
@@ -18,8 +32,7 @@ New texture for:
 - Chain Command Block
 - Repeating Command Block
 
-<img src="https://i.imgur.com/xpOiUDQ.png?1">
-
+ 
  [Resource Pack Template][CREDIT_TEMPLATE]
 
 CTM template:
@@ -72,3 +85,19 @@ CTM template:
 
 [WIKI_RESOURCE_PACK]: https://minecraft.fandom.com/wiki/Resource_Pack
 [CREDIT_TEMPLATE]: https://github.com/Love-and-Tolerance/Resource-Pack-template/releases/latest
+
+
+<span align="center">
+
+💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲
+
+💰 [EARN CASH FOR YOUR VISITORS](http://adfoc.us/70606381976246) 💰
+
+[CLICK HERE](http://adfoc.us/70606381976246)
+
+[Earn up to](http://adfoc.us/70606381976246) 💲 [22.50 per 1000 visits to your short URLs. | Referral program](http://adfoc.us/70606381976246)
+
+💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲
+ 
+</span>
+
