@@ -1,4 +1,28 @@
-# Changelog
+# ChangeLog
+
+<span align="center">
+   
+    
+<table style="margin: auto; text-align: center;">
+   
+<tr>
+<td>
+<a href="https://www.patreon.com/jtorleon">
+
+![discord](https://gitlab.com/scs_torleon/hub-ore-prospecting-stick/-/raw/main/assets/footer-patreon.png)
+  
+</a>
+</td>
+<td>
+<a href="https://discord.gg/aGKgWtrcgp">
+
+![discord](https://invidget.switchblade.xyz/aGKgWtrcgp)
+        
+</a>
+</td>
+</tr>
+</table>   
+</span>
 
 
 <span align="center">
