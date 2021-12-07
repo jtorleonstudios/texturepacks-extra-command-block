@@ -9,7 +9,7 @@
 
 Earn up to 💲 [22.50 per 1000 visits to your short URLs.
 
-[CLICK HERE AND CREATE ACCOUNT](http://adfoc.us/70606381976246)
+[CLICK HERE AND CREATE ACCOUNT](http://adfoc.us/?refid=706063)
 
 💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲💲
 
